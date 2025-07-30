@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ashish Khatri</h1>
-<h3 align="center">🚀 Software Engineer | MERN STACK | Frontend Focused | Creative Builder</h3>
+<h3 align="center">🚀 Software Engineer | JS Developer | MERN Major | ML Learner - M.Sc. CSIT</h3>
 
 ---
 
