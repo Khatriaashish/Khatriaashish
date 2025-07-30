@@ -22,8 +22,8 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khatriaashish&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khatriaashish&theme=radical" alt="GitHub streak" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Khatriaashish&show_icons=true&theme=radical" alt="GitHub stats" /> -->
+  <img src="https://streak-stats.demolab.com/?user=khatriaashish" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatriaashish&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
