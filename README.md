@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,nodejs,express,fastapi,python,mongodb,postgresql,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,postman,redux,tailwind,typescript,javascript,html,css,scss,nodejs,express,fastapi,python,mongodb,postgresql,sqlite,git" />
 </p>
 
 ---
@@ -22,8 +22,6 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Khatriaashish&show_icons=true&theme=radical" alt="GitHub stats" /> -->
-  <img src="https://streak-stats.demolab.com/?user=khatriaashish" alt="GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatriaashish&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
